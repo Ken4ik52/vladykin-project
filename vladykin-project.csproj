@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<RootNamespace>VladykinProject</RootNamespace>
+		<AssemblyName>VladykinProject</AssemblyName>
+		<TargetFramework>net9.0-windows7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<WarningLevel>4</WarningLevel>
+		<RepositoryUrl>https://github.com/Ken4ik52/vladykin-project</RepositoryUrl>
+	</PropertyGroup>
+</Project>
