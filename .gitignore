@@ -1,0 +1,64 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio Code
+.vscode/
+.DS_Store
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+# Uncomment if using PackageReference
+# !packages/**/*.nupkg
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Others
+*.pdb
+*.mdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.tmp
+*.log
+*.vspscc
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# WPF designer generated files
+Generated\ Files/
+*.g.cs
+*.g.i.cs
+
+# Publish folder
+publish/
